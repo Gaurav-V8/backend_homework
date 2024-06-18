@@ -1,0 +1,19 @@
+{
+  "name": "04_express_routes_js",
+  "version": "1.0.0",
+  "description": "i'm gonna create some routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "routes",
+    "api"
+  ],
+  "author": "gaurav vaishnav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
